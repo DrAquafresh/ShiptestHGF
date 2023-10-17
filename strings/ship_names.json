@@ -1237,5 +1237,32 @@
 		"Wagner's Will",
 		"Weaver",
 		"Xenobane"
+	],
+	"ALIENVESSEL": [
+		"Sigma Phi Epsilon",
+		"Lambda Chi Alpha",
+		"Kappa Alpha Psi",
+		"Alpha Phi Alpha",
+		"Sigma Alpha Epsilon",
+		"Kappa Sigma",
+		"Sigma Chi",
+		"Phi Beta Sigma",
+		"Pi Kappa Alpha",
+		"Alpha Epsilon Pi",
+		"Alpha Sigma Phi",
+		"Omega Psi Phi",
+		"Theta Chi",
+		"Pi Beta Phi",
+		"Phi Gamma Delta",
+		"Phi Delta Theta",
+		"Beta Theta Pi",
+		"Delta Sigma Theta",
+		"Alpha Tau Omega",
+		"Alpha Phi",
+		"Tau Kappa Epsilon",
+		"Sigma Nu",
+		"Delta Chi",
+		"Zeta Beta Tau",
+		"REDACTED"
 	]
 }
